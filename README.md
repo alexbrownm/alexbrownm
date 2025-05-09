@@ -7,6 +7,10 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alexbrownm&theme=flat&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🧳 About Me
 
 - 🔗 Building bridges between **Web2 and Web3** technologies  
