@@ -52,7 +52,7 @@
 
 ### 📫 Contact Me
 - 📧 Email: badshahahmed26643@gmail.com  
-- 🌐 Portfolio: [usavccstore.com](https://usavccstore.com)  
-- 🐦 Twitter: [@usavccstore](https://twitter.com/usavccstore)  
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/badshahafridi)
+- ⏰ TikTok: [Badshah Afridi](https://www.tiktok.com/@badshah.afridi_06?_t=ZS-8wDWTudsGmd&_r=1)  
+- 🐦 Twitter: [Badshah Afridi](https://twitter.com/badshahafridi06)  
+- 💼 Facebook: [Badshah Afridi](https://www.facebook.com/badshah.afridi.06?mibextid=ZbWKwL)
 
