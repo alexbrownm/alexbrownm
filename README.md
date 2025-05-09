@@ -12,6 +12,34 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexbrownm&theme=flat&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 --
+## ✨ Featured Projects
+
+- 🔗 [Awesome Portfolio Website](https://github.com/alexbrownm/portfolio)
+- 🔗 [Decentralized Voting DApp](https://github.com/alexbrownm/voting-dapp)
+- 🔗 [VSCode Productivity Extension](https://github.com/alexbrownm/vscode-toolkit)
+
+---
+
+## 💖 Support
+
+If you like what I do, consider ⭐ my repositories or buying me a coffee!
+
+<a href="https://buymeacoffee.com/alexbrownm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-purple.png" height="40" alt="Buy Me A Coffee" /></a>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=435&lines=Full-Stack+Developer;Blockchain+%26+Web3+Engineer;Open+Source+Contributor" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbrownm&layout=compact&theme=radical" width="40%" />
+</p>
+
+![snake gif](https://github.com/yourusername/alexbrownm/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ### 🧳 About Me
