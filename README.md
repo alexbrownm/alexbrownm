@@ -9,17 +9,10 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexbrownm&theme=flat&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=johnbossco725&theme=flat&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 --
 
-![GitHub Profile Trophy](./assets/d701d75e-2604-4af4-aa99-4c40539f37e2.png)
-
-
-### 📈 GitHub Stats
-
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexbrownm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbrownm&layout=compact&theme=radical)
 
 ### 🧳 About Me
 
