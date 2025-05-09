@@ -24,8 +24,6 @@
 
 If you like what I do, consider ⭐ my repositories or buying me a coffee!
 
-<a href="https://buymeacoffee.com/alexbrownm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-purple.png" height="40" alt="Buy Me A Coffee" /></a>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=435&lines=Full-Stack+Developer;Blockchain+%26+Web3+Engineer;Open+Source+Contributor" alt="Typing animation" />
 </p>
@@ -38,7 +36,7 @@ If you like what I do, consider ⭐ my repositories or buying me a coffee!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbrownm&layout=compact&theme=radical" width="40%" />
 </p>
 
-![snake gif](https://github.com/yourusername/alexbrownm/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/alexbrownm/alexbrownm/blob/output/github-contribution-grid-snake.svg)
 
 
 
