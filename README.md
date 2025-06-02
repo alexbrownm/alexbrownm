@@ -21,23 +21,6 @@
 
 ---
 
-### 🧾 Profile Information
-
-- 🧠 **Copying someone is not my choice ✅🎯**
-- 🎵 **45 Minutes NonStop - Gitplace**  
-  ▶️ ▐▐▐▐▐▐▐▐▐▐ 00:45.00
-
-- 👤 **Profile**: Public figure  
-- 🔍 **GOOGLE at**: *Search Engine Optimizer (SEO)*  
-- 💌 **Confirmed at**: *Romantic Bow Need*  
-- 💼 **Buy/sell at**: *SEO Digital Affiliated Marketing*  
-- 🏏 **Leisure-time**: *Playing Cricket and Badminton*  
-- 🛫 **Aircraft pilot at**: *1xbet*  
-- 🛡️ **Email security at**: *Level Confidence - SSD NFT HTML*  
-- 🎓 **Studied at**: *Rohanpur Yusuf Ali Govt. College*  
-- 📍 **Lives in**: *Los Angeles CA*  
-- 💍 **Marital status**: *Married*
-
 ## 💖 Support
 
 If you like what I do, consider ⭐ my repositories or buying me a coffee!
@@ -59,10 +42,6 @@ If you like what I do, consider ⭐ my repositories or buying me a coffee!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbrownm&layout=compact&theme=radical" width="40%" />
 </p>
 
-## 🐍 Contribution Snake (SVG Animation)
-
-![GitHub Contribution Snake](https://github.com/alexbrownm/alexbrownm/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
@@ -78,12 +57,6 @@ If you like what I do, consider ⭐ my repositories or buying me a coffee!
 
 ### 🛠️ Tech Stack
 
-#### 🔗 Blockchain & Web3  
-- Solidity / Smart Contracts  
-- Web3.js / Ethers.js  
-- Hardhat / Truffle  
-- MetaMask Integration  
-- IPFS / Decentralized Storage
 
 #### 💻 Frontend  
 - React.js, Vue.js  
