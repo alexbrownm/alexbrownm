@@ -14,11 +14,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexbrownm&theme=flat&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-
----
-
-## JabaScript
-
 ---
 
 ## 💖 Support
@@ -30,46 +25,12 @@ If you like what I do, consider ⭐ my repositories or buying me a coffee!
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=435&lines=Full-Stack+Developer;Blockchain+%26+Web3+Engineer;Open+Source+Contributor" alt="Typing animation" />
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbrownm&layout=compact&theme=radical" width="40%" />
 </p>
 
-
----
-
-### 🧳 About Me
-
-- 🔗 Building bridges between **Web2 and Web3** technologies  
-- 🔭 Currently expanding my skills in **Python, React.js, and Solidity**  
-- ❤️ Passionate about **DeFi, NFTs**, and decentralized applications  
-- 🔐 Focused on secure, scalable **blockchain solutions**  
-- ⚡ Fun fact: Ethical hacker in my spare time
-
----
-
-### 🛠️ Tech Stack
-
-
-#### 💻 Frontend  
-- React.js, Vue.js  
-- JavaScript / TypeScript  
-- HTML5 / CSS3  
-- UI/UX Design
-
-#### 🧰 Tools & Platforms  
-- Git / GitHub  
-- VS Code  
-- Figma  
-- Firebase, MongoDB  
-- Docker, Netlify
 
 ---
 
@@ -80,11 +41,4 @@ If you like what I do, consider ⭐ my repositories or buying me a coffee!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexbrownm&theme=radical" width="450"/>
 </p>
 
----
-
-### 📫 Contact Me
-- 📧 Email: badshahahmed26643@gmail.com  
-- ⏰ TikTok: [Badshah Afridi](https://www.tiktok.com/@badshah.afridi_06?_t=ZS-8wDWTudsGmd&_r=1)  
-- 🐦 Twitter: [Badshah Afridi](https://twitter.com/badshahafridi06)  
-- 💼 Facebook: [Badshah Afridi](https://www.facebook.com/badshah.afridi.06?mibextid=ZbWKwL)
 
