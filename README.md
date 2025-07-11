@@ -9,11 +9,6 @@
 
 ---![javascript-illustration](https://github.com/user-attachments/assets/f61b1561-b88f-44e9-a103-09258c20a0d0)
 
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexbrownm&theme=flat&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 💖 Support
