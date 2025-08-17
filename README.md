@@ -1,4 +1,6 @@
-<h1 align="center"> I'm [Badshah Afridi]</h1>
+## Thanks For Visit
+
+> "The quieter you become, the more you are able to hear." – Anonymous  
 <h3 align="center">Full-Stack Developer | Web Contain Writing | Account Seller | </h3>
 
 <p align="center">
@@ -6,19 +8,18 @@
 </p>
 
 ---
-
-## 💖 Support
-
-If you like what I do, consider ⭐ my repositories or buying me a coffee!
+### Contact me to get good service. 
+- WhatsApp Number - 01817090350  [ BD Country ]
 ---
+
 ## My Skills 
- #### 1. Website Build & Create <br>
- #### 2. Design Create/Custom Topic <br>
- #### 3. Elementors with Export Design
- #### 4. Web Ranking
- #### 5. SEO Full Setup with On Page Custom Design
- #### 6. Social Platform Followers Build
- #### 7. Social Ads Run etc.
- #### 8. Web Contain Writing
- #### 9. Blog contain Writing
+-  Website Build & Create <br>
+-  Design Create/Custom Topic <br>
+-  Elementors with Export Design
+-  Web Ranking
+-  EO Full Setup with On Page Custom Design
+-  Social Platform Followers Build
+-  Social Ads Run etc.
+-  Web Contain Writing
+-  Blog contain Writing
 
