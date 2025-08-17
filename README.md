@@ -13,7 +13,7 @@
 ---
 
 ## My Skills 
--  Website Build & Create 
+-  Website Build/Create 
 -  Design Create/Custom Topic
 -  Elementors with Export Design
 -  Web Ranking
