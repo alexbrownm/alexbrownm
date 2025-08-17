@@ -17,7 +17,7 @@
 -  Design Create/Custom Topic
 -  Elementors with Export Design
 -  Web Ranking
--  EO Full Setup with On Page Custom Design
+-  SEO Full Setup with On Page Custom Design
 -  Social Platform Followers Build
 -  Social Ads Run etc.
 -  Web Contain Writing
