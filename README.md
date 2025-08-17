@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=alexbrownm&label=Profile%20views&color=0e75b6&style=flat" alt="alexbrownm" />
 </p>
 
-  
-[![GitHub followers](https://img.shields.io/github/followers/alexbrownm?logo=github&style=for-the-badge)](https://github.com/alexbrownm?tab=followers)
-[![Stars](https://img.shields.io/github/stars/alexbrownm?affiliations=OWNER&style=for-the-badge)](https://github.com/alexbrownm?tab=repositories)
-
-
 ---
 
 ![javascript-illustration](https://github.com/user-attachments/assets/f61b1561-b88f-44e9-a103-09258c20a0d0)
