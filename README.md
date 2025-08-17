@@ -9,12 +9,12 @@
 
 ---
 ### Contact me to get good service. 
-- WhatsApp Number - 01817090350  [ BD Country ]
+- **WhatsApp Number - 01817090350  [ BD Country ]**
 ---
 
 ## My Skills 
--  Website Build & Create <br>
--  Design Create/Custom Topic <br>
+-  Website Build & Create 
+-  Design Create/Custom Topic
 -  Elementors with Export Design
 -  Web Ranking
 -  EO Full Setup with On Page Custom Design
